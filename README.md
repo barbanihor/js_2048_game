@@ -4,7 +4,7 @@
 
 # DEMO
 
-- [Link to the game](https://barbanihor.github.io/js_2048_game/)
+- [Link to the game] (https://barbanihor.github.io/js_2048_game/)
 
 # Technologies Used
 
